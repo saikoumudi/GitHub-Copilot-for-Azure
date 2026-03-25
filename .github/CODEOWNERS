@@ -25,7 +25,7 @@
 /plugin/skills/azure-prepare/ @tmeschter @wbreza
 /plugin/skills/azure-quotas/ @rakal-dyh
 /plugin/skills/azure-rbac/ @JasonYeMSFT @msalaman
-/plugin/skills/azure-resource-lookup/ @charris-msft
+/plugin/skills/azure-resource-lookup/ @charris-msft @saikoumudi
 /plugin/skills/azure-resource-visualizer/ @tmeschter
 /plugin/skills/azure-storage/ @charris-msft
 /plugin/skills/azure-validate/ @wbreza @tmeschter
